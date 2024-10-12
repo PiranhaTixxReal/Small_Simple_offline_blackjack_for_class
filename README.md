@@ -1,5 +1,3 @@
-Description
-This is a simple, offline implementation of the classic casino game Blackjack, created for a class project. The game allows players to enjoy Blackjack without an internet connection, making it perfect for learning the game or quick entertainment.
 Features
 Single-player gameplay against a computer dealer
 Basic Blackjack rules implementation
